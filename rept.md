@@ -19,9 +19,11 @@ Cоздаем файл lab2.bash: `nano lab2.bash`
 	done
 * `echo "$res»` Выводит окончательный двоичный IP-адрес
 
-##Скрипт:
+
+
+## Скрипт:
 <img width="533" height="394" alt="File lab2 bash" src="https://github.com/user-attachments/assets/6666d370-b610-4c0c-b4c9-8bd2ce5a862a" />
 
-##Результат:
+## Результат:
 <img width="553" height="48" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/ef5dcf1e-4d17-4cb6-80ab-6dff41c8c2e7" />
 
